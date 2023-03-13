@@ -1,0 +1,59 @@
+ .nav-center {
+  box-shadow: 0 0px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.nav-center h2 {
+  font-size: 55px;
+  text-transform: capitalize;
+  padding: 40px;
+  color: hsl(205, 72%, 37%);
+}
+main {
+  display: grid;
+  place-items: center;
+}
+.container {
+  text-align: center;
+}
+.container h2 {
+  background: #fff;
+  padding: 70px;
+  border-radius: 16px;
+  font-size: 35px;
+  color: hsl(209, 28%, 39%);
+  text-transform: capitalize;
+}
+#color {
+  background: black;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-left: 8px;
+}
+.btn {
+  display: inline-block;
+  background: transparent;
+  font-size: 28px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 5px 8px;
+}
+
+section p {
+  color: #222;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30%;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 16px;
+  /* border: 5px solid red; */
+}
+.border-btn {
+  display: inline-block;
+  background: transparent;
+  font-size: 28px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 5px 8px;
+}
