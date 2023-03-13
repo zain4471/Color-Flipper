@@ -57,3 +57,24 @@ section p {
   cursor: pointer;
   padding: 5px 8px;
 }
+#input{
+  background: black;
+  color: white;
+  font-size: 28px;
+  font-weight: 600;
+  width: 115px;
+  padding: 15px;
+  outline: none;
+  border: none;
+  margin-left: 8px;
+  border-radius: 10px;
+}
+.search{
+  border: none;
+  background: #d02168;
+  padding: 15px;
+  margin-left: 5px;
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
